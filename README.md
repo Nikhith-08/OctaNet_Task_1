@@ -1,5 +1,17 @@
 # 🚀 ATM Machine Simulation in Python 🚀
 
+## 📚 Table of Contents
+1. [📌 Project Overview](#-project-overview)
+2. [🛠️ Technologies Used](#-technologies-used)
+3. [🎯 Core Functionalities](#-core-functionalities)
+4. [📝 Project Structure](#-project-structure)
+5. [🚀 Getting Started](#-getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+6. [🧠 Key Learnings](#-key-learnings)
+7. [🤝 Contributing](#-contributing)
+8. [📄 License](#-license)
+
 ## 📌 Project Overview
 This project is a **Python-based ATM Machine Simulation**, developed as part of my **Python Development Internship** at **OctaNet Services Pvt Ltd**. The program simulates the essential functionalities of an ATM, offering a user-friendly experience.
 
